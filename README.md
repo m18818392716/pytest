@@ -1,0 +1,2 @@
+# pytest
+第一个pytest测试项目，验证pytest_xdict实现分布式的调用，采用jenkins 持续继承搭建jenkins环境，自主发送email
